@@ -16,8 +16,9 @@
 - [ ] `roadmap.md` creado **hecho cuando**: este archivo está en el repo y con fechas reales.
 - [ ] Calendario semanal decidido **hecho cuando**: sección “Plan semanal” escrita abajo.
 - [ ] Estructura inicial `/notes/` y `/src/` **hecho cuando**: carpetas creadas y commiteadas.
+- [ ] Planificar Fase 1: plan semanal de la fase 1, metas, ventana de tiempo y entregables.
 
-## Plan semana 
+## Plan semanal
 
 - Lunes: 2 h - lectura ligera + notas de organización  
 - Martes: 2 h - Git básico (add/commit/push)  
@@ -34,5 +35,5 @@
 - Carpeta `notes/` (con borradores vacíos si hace falta)
 - Carpeta `src/` con un test trivial o vacío (estructura lista)
 
-## Registro de avances
+# Registro de avances
 - 12-11-2025: 
