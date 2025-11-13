@@ -15,7 +15,7 @@
 - [x] Repo GitHub con README **hecho cuando**: repo `bitcoin-first` con `README.md` en `main`.
 - [x] `roadmap.md` creado **hecho cuando**: este archivo está en el repo y con fechas reales.
 - [x] Calendario semanal decidido **hecho cuando**: sección “Plan semanal” escrita abajo.
-- [ ] Estructura inicial `/notes/` y `/src/` **hecho cuando**: carpetas creadas y commiteadas.
+- [x] Estructura inicial `/notes/` y `/src/` **hecho cuando**: carpetas creadas y commiteadas.
 - [ ] Planificar Fase 1 **hecho cuando**: plan semanal de la fase 1, metas, ventana de tiempo y entregables.
 
 ## Plan semanal
