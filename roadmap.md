@@ -34,6 +34,3 @@
 - `roadmap.md` con esta planificación
 - Carpeta `notes/` (con borradores vacíos si hace falta)
 - Carpeta `src/` con un test trivial o vacío (estructura lista)
-
-# Registro de avances
-- 12-11-2025: He instalado todo el software necesario para la fase 0, creado los archivos `README.md` y `roadmap.md` y organizado la fase 0 
