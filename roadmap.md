@@ -2,8 +2,8 @@
 
 ## Ventana de tiempo
 
-- Del: 12-11-2025
-- Al:  19-11-2025
+- Del: 10-11-2025
+- Al:  16-11-2025
 
 ## Compromiso de horas / semana
 
