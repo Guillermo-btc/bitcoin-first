@@ -6,7 +6,7 @@ Imprima una frase tipo: "130 minutos son 2 horas y 10 minutos"."""
 
 minutos=int(input("Minutos a convertir: "))
 
-horas= minutos // 60
+horas = minutos // 60
 minutos_restantes = minutos % 60
 
 print(str(minutos) + " minutos equivalen a: " + str(horas) + " horas y " + str(int(round(minutos_restantes,0))) + " minutos.")
